@@ -34,3 +34,5 @@ Integrate the Google recaptcha code into the html code.
 (Watch how to integrate Google recaptcha code)
 
 My seniors had suggested integrating the Google recaptcha code into the index.html file. By this, you have made the website fully secure because bots can’t pass the recaptcha test. Hence, only genuine users will get registered. 
+
+![image](https://github.com/user-attachments/assets/a3e14338-976f-4e9b-91ec-7b8f6f925756)
